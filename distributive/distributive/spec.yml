@@ -6,7 +6,7 @@ license: ASL 2.0
 description: Distributive is a tool for running distributed health checks in
   datacenters.
 url: https://github.com/CiscoCloud/distributive
-vendor: CiscoCloud
+vendor: ianblenke
 type: rpm
 
 targets:
